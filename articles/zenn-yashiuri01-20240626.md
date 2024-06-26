@@ -6,6 +6,10 @@ topics: ["Zenn", "GitHub",]
 published: true
 ---
 
+## Overview
+
+ZennとGitHubの連携方法についての手順メモ
+
 ## ZennとGitHubの連携
 
 1. Zenn用のリポジトリをGitHubで作成する
